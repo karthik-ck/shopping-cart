@@ -1,0 +1,40 @@
+.home_container {
+  overflow: hidden;
+  padding: 20px 60px;
+}
+
+.home_cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home_left {
+  padding-left: 50px !important;
+}
+
+.home_left b {
+  color: red;
+  font-weight: 400;
+}
+
+.home_right img {
+  width: 90%;
+  border-radius: 3px;
+}
+
+.home_left p {
+  font-size: 13px;
+  font-size: 300 !important;
+  word-wrap: break-word;
+  width: 90%;
+}
+
+.home_left button{
+    background-color: orange;
+    border:none;
+    padding:10px 20px;
+    color:#fff;
+    border-radius: 3px;
+    text-transform: uppercase;
+}

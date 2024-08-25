@@ -1,0 +1,114 @@
+.menu_container {
+  padding: 20px;
+}
+
+.menu_title {
+  text-align: center;
+  text-transform: uppercase;
+  background-color: rgb(255 255 255);
+  box-shadow: 0px 0px 20px 0px rgba(0, 94, 182, 0.2);
+  padding:10px;
+  margin-bottom:10px;
+}
+
+.menu_title h3 {
+  font-weight: 400 !important;
+  color: #707070;
+}
+
+.item_card {
+  padding: 5px;
+  border: 1px solid #dfdfdf;
+  border-bottom: 5px solid green;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.item_card img {
+  width: 100%;
+}
+
+.item_body {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.add_to_cart button {
+  width: 100%;
+  background-color: orange;
+  color: #fff;
+  padding: 5px 20px;
+  border: none;
+  border-radius: 3px;
+  margin: 10px 0;
+}
+
+.cart_items {
+  border: 1px solid #dfdfdf;
+  min-height: 400px;
+  border-radius: 3px;
+  padding: 10px;
+  margin-top:40px;
+}
+
+.cart_items_title {
+  text-align: center;
+  text-transform: uppercase;
+  border-bottom: 1px solid #dfdfdf;
+  padding: 6px;
+}
+
+.cart_item_menu {
+  padding-top: 10px;
+}
+
+.cart_item_menu img {
+  border-radius: 50%;
+  width: 70px;
+  height: 60px;
+  margin-right: 10px;
+}
+
+.qty_box {
+  text-align: center;
+  font-weight: 500;
+}
+
+.qty_box button {
+  border: none;
+  background: none;
+  color: #fff;
+  margin: 0 10px;
+  background-color: orange !important;
+  color: #fff !important;
+  padding: 3px 10px !important;
+  border-radius: 3px;
+}
+
+.table>tbody {
+  vertical-align: middle !important;
+}
+
+.delete_icon button {
+  border: none;
+  background-color: red;
+  color: #fff;
+  border-radius: 3px;
+  padding: 3px 10px;
+}
+
+.menu_cont {
+  background-color: rgb(255 255 255);
+  box-shadow: 0px 0px 20px 0px rgba(0, 94, 182, 0.2);
+  padding:10px;
+}
+
+.add_to_cart button:disabled{
+  opacity: 0.5;
+}
+
+.no_data{
+  text-align: center;
+}

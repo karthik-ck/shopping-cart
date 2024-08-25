@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Food 1",
+      "price": 200,
+      "quantity": 0,
+      "image": "images/food1.png"
+    },
+    {
+      "id": 2,
+      "name": "Food 2",
+      "price": 250,
+      "quantity": 0,
+      "image": "images/food2.png"
+    },
+    {
+      "id": 3,
+      "name": "Food 3",
+      "price": 300,
+      "quantity": 0,
+      "image": "images/food3.png"
+    },
+    {
+      "id": 4,
+      "name": "Food 4",
+      "price": 225,
+      "quantity": 0,
+      "image": "images/food4.png"
+    },
+    {
+      "id": 5,
+      "name": "Food 5",
+      "price": 150,
+      "quantity": 0,
+      "image": "images/food5.png"
+    },
+    {
+      "id": 6,
+      "name": "Food 6",
+      "price": 175,
+      "quantity": 0,
+      "image": "images/food6.png"
+    },
+    {
+      "id": 7,
+      "name": "Food 7",
+      "price": 180,
+      "quantity": 0,
+      "image": "images/food7.png"
+    },
+    {
+      "id": 8,
+      "name": "Food 8",
+      "price": 220,
+      "quantity": 0,
+      "image": "images/food8.png"
+    },
+    {
+      "id": 9,
+      "name": "Food 9",
+      "price": 210,
+      "quantity": 0,
+      "image": "images/food9.png"
+    },
+    {
+      "id": 10,
+      "name": "Food 10",
+      "price": 200,
+      "quantity": 0,
+      "image": "images/food10.png"
+    },
+    {
+      "id": 11,
+      "name": "Food 11",
+      "price": 100,
+      "quantity": 0,
+      "image": "images/food11.png"
+    },
+    {
+      "id": 12,
+      "name": "Food 12",
+      "price": 175,
+      "quantity": 0,
+      "image": "images/food12.png"
+    },
+    {
+      "id": 13,
+      "name": "Food 13",
+      "price": 120,
+      "quantity": 0,
+      "image": "images/food13.png"
+    },
+    {
+      "id": 14,
+      "name": "Food 14",
+      "price": 105,
+      "quantity": 0,
+      "image": "images/food14.png"
+    }
+  ]
+}

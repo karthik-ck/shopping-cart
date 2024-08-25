@@ -1,0 +1,33 @@
+.my_cart {
+  background-color: rgb(255 255 255);
+  box-shadow: 0px 0px 20px 0px rgba(0, 94, 182, 0.2);
+  padding: 10px;
+  width: 70%;
+}
+
+.my_cart_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.my_cart_title h4 {
+  text-transform: uppercase;
+  text-align: center;
+  border-bottom: 1px solid #dfdfdf;
+}
+
+.book_order{
+    padding:5px 20px;
+}
+
+.book_order button {
+  float: right;
+  border: none;
+  background-color: green;
+  padding: 10px 20px;
+  border-radius: 3px;
+  color: #fff;
+}
