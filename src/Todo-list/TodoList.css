@@ -1,0 +1,44 @@
+.todo-list-container {
+  padding: 20px;
+}
+
+.todo-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.todo-input input {
+  height: 40px;
+  width: 400px;
+  border: 1px solid grey;
+  border-radius: 3px;
+  margin-right: 10px;
+}
+
+.todo-input button {
+  width: 100px;
+  border-radius: 3px;
+}
+
+.table_container .table{
+   margin-top:30px;
+   border:1px solid grey;
+   position: absolute;
+   left:50%;
+}
+
+.table_container .table thead tr th,
+.table_container .table tbody tr td{
+    border:1px solid grey;
+}
+
+.action_buttons button{
+    margin:0 10px;
+    border-radius: 3px;
+}
+
+.table_container{
+    width:50%;
+    position: relative;
+}

@@ -21,6 +21,9 @@ function Header() {
                             <li><Link to='/menus'>Menu 1</Link></li>
                             <li><Link to='/menus2'>Menu 2</Link></li>
                             <li><Link to='/my-cart'>My Cart</Link></li>
+                            <li><Link to='/todo-list'>Todo 1</Link></li>
+                            <li><Link to="/todo2">Todo 2</Link></li>
+                            <li><Link to="/timer">Timer</Link></li>
                         </ul>
                         <div className='logout'>
                             Logout

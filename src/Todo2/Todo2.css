@@ -1,0 +1,47 @@
+.todo_left input {
+  height: 40px;
+  border: 1px solid grey;
+  border-radius: 3px;
+}
+
+.todo_left textarea {
+  border: 1px solid grey;
+  border-radius: 3px;
+}
+
+.todo_left,
+.todo_right {
+  padding: 10px;
+}
+
+.todo_left .form-group {
+  margin-bottom: 10px;
+}
+
+.todo_left button{
+    width:100px;
+    border-radius:3px;
+}
+
+.todo2_container{
+    padding:30px 10px;
+    overflow-x: hidden;
+}
+
+.todo_right .table{
+    border:1px solid grey;
+}
+
+.todo_right .table thead tr th,
+.todo_right .table tbody tr td{
+    border:1px solid grey;
+}
+
+.todo_right .table thead tr th{
+    background-color: aliceblue;
+}
+
+.no_data{
+  text-align: center;
+  padding:10px;
+}
