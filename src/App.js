@@ -7,6 +7,7 @@ import Menu2 from './Menu2/Menu2';
 import TodoList from './Todo-list/TodoList';
 import Todo2 from './Todo2/Todo2';
 import Timer from './Timer/Timer';
+import Counter from './Counter/Counter';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path='/todo-list' element={<TodoList />} />
         <Route path="/todo2" element={<Todo2 />} />
         <Route path='/timer' element={<Timer />} />
+        <Route path='/counter' element={<Counter />} />
       </Routes>
     </div>
   );

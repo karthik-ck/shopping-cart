@@ -9,13 +9,13 @@ function Header() {
         <div className="header_container">
             <div className='header_inner'>
                 <div className='row'>
-                    <div className='col-sm-4'>
+                    <div className='col-sm-3'>
                         <div className='header_title'>
                             <img src={foodieIcon} alt='' />
                             <span>FOODies</span>
                         </div>
                     </div>
-                    <div className='col-sm-8 header_right'>
+                    <div className='col-sm-9 header_right'>
                         <ul className='header_menus'>
                             <li><Link to='/'>Home</Link></li>
                             <li><Link to='/menus'>Menu 1</Link></li>
@@ -24,6 +24,7 @@ function Header() {
                             <li><Link to='/todo-list'>Todo 1</Link></li>
                             <li><Link to="/todo2">Todo 2</Link></li>
                             <li><Link to="/timer">Timer</Link></li>
+                            <li><Link to="/counter">Counter</Link></li>
                         </ul>
                         <div className='logout'>
                             Logout
